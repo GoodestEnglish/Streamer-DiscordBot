@@ -10,8 +10,8 @@ __請確保你有一定[JDA](https://github.com/DV8FromTheWorld/JDA)和Java的�
 	> GUILD_ID (你的Discord伺服器ID)
 	> USER_OWNER_ID (你的Discord帳號ID)
 	> ROLE_YT_MEMBER (YT會員身份組ID)
-	> ROLE_NITRO_BOOSTER (YT會員身份組ID)
-	> ONLY_FOR_YT_MEMBERS (伺服器加成者身份組ID)
+	> ROLE_NITRO_BOOSTER (伺服器加成者身份組ID)
+	> ONLY_FOR_YT_MEMBERS (是否只允許伺服器加成者和YT會員)
 	> DISCORD_BOT_TOKEN (機械人Token)
 	> MONGO_HOST (MongoDB資料庫IP, 必需要跟Streamer-Mod模組設置的資料庫IP一模一樣)
 編譯源碼, 並運行該機械人
